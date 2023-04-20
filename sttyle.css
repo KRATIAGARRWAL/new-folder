@@ -1,0 +1,14 @@
+body{
+    background-image: url("");
+    background-size: cover;
+}
+.title{
+    color: mediumspringgreen;
+    padding-right: 10px;
+
+}
+.container{
+    border:9px;
+    padding:10px;
+
+}
